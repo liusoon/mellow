@@ -13,7 +13,7 @@
     "dlgeo": "node scripts/dl_geo.js"
   },
   "devDependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "electron": "^8.0.1",
     "electron-builder": "^22.3.2",
     "jest": "^24.9.0",
